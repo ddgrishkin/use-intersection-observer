@@ -1,0 +1,19 @@
+{
+  "name": "@ddgrishkin/use-intersection-observer",
+  "version": "0.0.1",
+  "description": "Use intersection observer react hook",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "Daniil Grishkin",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/react": "^18.0.15",
+    "react": "^18.2.0",
+    "typescript": "^4.7.4"
+  },
+  "peerDependencies": {
+    "react": ">= 16.8.0"
+  }
+}
